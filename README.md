@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CI/CD Pipelines, Big Data Frameworks**
 
-- 👨‍💻 All of my projects are available at [My YouTube channel : https://www.youtube.com/channel/UCQbmQec6v6M4_gH8ywRp3DA](My YouTube channel : https://www.youtube.com/channel/UCQbmQec6v6M4_gH8ywRp3DA)
+- 👨‍💻 All of my projects are available at [My YouTube channel : https://www.youtube.com/channel/UCQbmQec6v6M4_gH8ywRp3DA]
 
 - 💬 Ask me about **Python, Machine Learning, MLOps**
 
@@ -15,7 +15,8 @@
 
 - ⚡ Fun fact **I am a Civil Engineer by education, but my fascination toward Computers and Mathematics pulled me into the world of Data Science**
 
-<h3 align="left">Connect with me:</h3>
+## 🔗 Links
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraj-bari-a7864226b/)
 [![portfolio project](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQbmQec6v6M4_gH8ywRp3DA)
 
