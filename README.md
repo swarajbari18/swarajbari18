@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [give link here](give link here)
 
-- ⚡ Fun fact **I am a Civil Engineer by education, but my fascination toward Computers and Mathematics pulled me into the world of Data Science**
+- ⚡ Fun fact **I am a Civil Engineer by education, but my fascination toward Technology and Mathematics pulled me into the world of Data Science**
 
 ## 🔗 Links
 
