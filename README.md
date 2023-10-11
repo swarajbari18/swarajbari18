@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **CI/CD Pipelines, Big Data Frameworks**
 
-- 👨‍💻 All of my projects are available at [My YouTube channel : https://www.youtube.com/channel/UCQbmQec6v6M4_gH8ywRp3DA]
+- 👨‍💻 All of my projects are available at [My YouTube channel](https://www.youtube.com/channel/UCQbmQec6v6M4_gH8ywRp3DA)
 
 - 💬 Ask me about **Python, Machine Learning, MLOps**
 
 - 📫 How to reach me **swarajbari18@gmail.com**
 
-- 📄 Resume [(https://docs.google.com/document/d/1kiJZnwfCbziofmC-b-mjMwcbzeW0aIPm/edit?usp=sharing&ouid=100162226478311635247&rtpof=true&sd=true)]
+- 📄 Know my Expiriences here [Resume](https://docs.google.com/document/d/1kiJZnwfCbziofmC-b-mjMwcbzeW0aIPm/edit?usp=sharing&ouid=100162226478311635247&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am a Civil Engineer by education, but my fascination toward Technology and Mathematics pulled me into the world of Data Science**
 
