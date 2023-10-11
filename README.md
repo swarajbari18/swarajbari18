@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **swarajbari18@gmail.com**
 
-- 📄 Know about my experiences [give link here](give link here)
+- 📄 Resume [(https://docs.google.com/document/d/1kiJZnwfCbziofmC-b-mjMwcbzeW0aIPm/edit?usp=sharing&ouid=100162226478311635247&rtpof=true&sd=true)]
 
 - ⚡ Fun fact **I am a Civil Engineer by education, but my fascination toward Technology and Mathematics pulled me into the world of Data Science**
 
