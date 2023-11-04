@@ -1,3 +1,5 @@
+
+![logo](https://github.com/swarajbari18/swarajbari18/blob/main/Untitled.png)
 <h1 align="center">Hi 👋, I'm Swaraj bari</h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
 
