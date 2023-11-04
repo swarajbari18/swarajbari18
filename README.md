@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [portfolio_project_two](https://github.com/swarajbari18/Portfolio_Project_two)
 
-- 🌱 I’m currently learning **CI/CD Pipelines, Big Data Frameworks**
+- 🌱 I’m currently learning **AWS, Terraform**
 
 - 👨‍💻 All of my projects are available at [My YouTube channel](https://www.youtube.com/channel/UCQbmQec6v6M4_gH8ywRp3DA)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **swarajbari18@gmail.com**
 
-- 📄 Know my Expiriences here [Resume](https://docs.google.com/document/d/1kiJZnwfCbziofmC-b-mjMwcbzeW0aIPm/edit?usp=sharing&ouid=100162226478311635247&rtpof=true&sd=true)
+- 📄 Know my Experiences here [Resume](https://drive.google.com/file/d/1tIs3uFrby864NYXZjLSou3bicb0N5cRR/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Civil Engineer by education, but my fascination toward Technology and Mathematics pulled me into the world of Data Science**
 
