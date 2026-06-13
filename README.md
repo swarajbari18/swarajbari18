@@ -137,23 +137,6 @@ LLM Cost Engineering       — Architecture-first cost reduction, model selectio
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=swarajbari18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajbari18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swarajbari18&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## Education
 
